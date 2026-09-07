@@ -263,16 +263,4 @@ This portfolio was developed using modern web technologies and responsive design
 
 ````
 
-### Then push the README
 
-Since your Git repository is already initialized, run:
-
-```powershell
-git add README.md
-git commit -m "Added professional portfolio README"
-git push
-````
-
-After refreshing your GitHub repository, the README will appear **below your files automatically**.
-
-**One important improvement:** after you enable GitHub Pages, replace the `Add your GitHub Pages URL here` section with your actual live portfolio link.
